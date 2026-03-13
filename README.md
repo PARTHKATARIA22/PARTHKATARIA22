@@ -94,4 +94,5 @@
   <img src="https://komarev.com/ghpvc/?username=PARTHKATARIA22&color=58A6FF&style=for-the-badge" alt="profile views" />
 </p>
 
-<p align="center">⚡ <i>"Consistency compounds — one commit at a time."</i> ⚡</p>
+<p align="center">✨ <i>"Purity in Heart, Clarity in Mind , Sincerity in Action & Contentment in Life😊"</i> ✨</p>
+
