@@ -19,8 +19,7 @@
 
 - 🎓 **B.Tech CSE** at **IIT Patna** — CGPA **9.42** | Sem I: 9.57 | Sem III SPI: 9.71
 - 🏆 **Branch Topper** — Secured a branch change to CSE after 1st year (from Mechanical)
-- 🥇 **Top 3 institute-wide** across all departments
-- 💼 Currently building production-grade full-stack systems as a **Team Lead**
+- 🥇 **Top 3 institute-wide** across all departments after 1st year.
 - 🧠 **Competitive Programmer** — 240+ on LeetCode, 550+ on Codeforces
 - 🚀 Selected in **Top 50 nationwide** for AlgoUniversity Accelerator Bootcamp (from 1,500+)
 - 📬 Reach me at **katariaparth222@gmail.com**
@@ -75,36 +74,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 🚀 Featured Projects
-
-### 🏢 [TPC Placement Portal](https://github.com/PARTHKATARIA22) — Enterprise Recruitment Management System
-> **Team Lead & Full-Stack Engineer** | React · Node.js · Express · MongoDB · JWT · jsPDF · Recharts
-
-- 🔐 Engineered a **5-tier RBAC security hierarchy** with JWT auth; unverified accounts auto-purge after 48h via TTL indexes
-- 📊 Built company dashboards with **multi-parameter filtering**, one-click PDF exports, and public analytics via Recharts
-- ⚡ Modeled multi-role data with **Mongoose Discriminators**; sub-6ms retrieval across 5,000+ concurrent profiles
-- 👥 Spearheaded a **6-member development team**
-
----
-
-### 🌐 [Anwesha 2026 – IIT Patna's Largest Fest](https://github.com/PARTHKATARIA22) — Multicity & Legacy Website
-> **Sub-Coordinator & Full-Stack Developer** | React · Node.js · Express · MongoDB · Nodemailer · Tailwind CSS
-
-- 🛠️ Designed a **role-based admin panel** and analytics dashboard with real-time registration updates
-- 📧 Built an **automated email broadcast system** via Nodemailer for participant notifications
-- 🤝 Delivered as part of an **8-member team** mentored by 3 senior coordinators
-
----
-
-### 💬 [Chatkro](https://github.com/PARTHKATARIA22) — Real-Time MERN Community Chat App
-> **Full-Stack Developer** | MongoDB · Express · React · Node.js · Socket.io · Zustand · DaisyUI
-
-- ⚡ Built **bidirectional real-time messaging** with Socket.io + live presence indicators
-- 🎨 Implemented **32 DaisyUI themes** with real-time switching; global state via Zustand
-- 🔒 Secured with **JWT + bcrypt**; Cloudinary-backed image sharing
 
 ---
 
