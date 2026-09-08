@@ -20,7 +20,7 @@
 - 🎓 **B.Tech CSE** at **IIT Patna** — CGPA **9.42** | Sem I: 9.57 | Sem III SPI: 9.71
 - 🏆 **Branch Topper** — Secured a branch change to CSE after 1st year (from Mechanical)
 - 🥇 **Top 3 institute-wide** across all departments after 1st year.
-- 🧠 **Competitive Programmer** — 240+ on LeetCode, 550+ on Codeforces
+- 🧠 **Competitive Programmer** — 640+ on LeetCode, 750+ on Codeforces
 - 🚀 Selected in **Top 50 nationwide** for AlgoUniversity Accelerator Bootcamp (from 1,500+)
 - 📬 Reach me at **katariaparth222@gmail.com**
 
